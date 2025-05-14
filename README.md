@@ -85,17 +85,9 @@ This will start the application, and you can access it in your web browser at ht
 
 📁 Project Structure
 
-ANN_Customer_Churn/
-├── app.py                   # Streamlit application
-├── Churn_Modelling.csv      # Dataset
-├── experiments.ipynb        # Notebook for model experimentation
-├── prediction.ipynb         # Notebook for predictions
-├── model.h5                 # Trained ANN model
-├── scaler.pkl               # Scaler for feature normalization
-├── label_encoder_gender.pkl # Label encoder for 'Gender'
-├── ohe_geo.pkl              # One-hot encoder for 'Geography'
-├── requirements.txt         # Python dependencies
-└── README.md                # Project documentation
+
+![image](https://github.com/user-attachments/assets/8f2852ab-ee07-43d3-8091-75668ba9450d)
+
 
 📈 Model Performance
 The ANN model was trained and evaluated using appropriate metrics. For detailed performance metrics and evaluation, refer to the experiments.ipynb notebook.
